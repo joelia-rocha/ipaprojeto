@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>IPA | Igreja Presbiteriana da Aliança</title>
+   <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+    <header id="header">
+      <a href="#" class="logo"></a>
+      <div class="toggle" onclick="toggle();"></div>
+      <ul class="navigation">
+        <li><a href="#banner" onclick="toggle()">Home</a></li>
+        <li><a href="#about" onclick="toggle()">IPA</a></li>
+        <li><a href="#programacao" onclick="toggle()">Programação</a></li>
+        <li><a href="#recursos" onclick="toggle()">Recursos</a></li>
+        <li><a href="#contato" onclick="toggle()">Contato</a></li>
+      </ul>
+    </header>
+    <section class="banner" id="banner">
+      <div class="content">
+        <h2><br><span>Igreja <br> Presbiteriana <br>da Aliança</span></h2>
+        <p>Somos gratos ao SENHOR por nos <br>sustentar e continuar
+         nos sustentando,<br> com sua infinita bondade e misericórdia.<br>
+        "Até aqui o Senhor nos ajudou". <br>(1 Samuel 7:12)</p>
+        <a href="#about">Saiba Mais</a>
+      </div>
+      <ul class="sci">
+        <li><a href="https://www.youtube.com/c/IPAALIANCA"><img src="youtube.png"></a></li>
+        <li><a href="https://www.instagram.com/ipadaalianca/"><img src="instagram2.png"></a></li>
+        <li><a href="https://open.spotify.com/show/51KOG8g7xPyODPaUw7HpyA"><img src="spotify.png"></a></li>
+      </ul>
+    </section>
+    <main></main>
+    <section class="aboutus" id="about">
+      <div class="row">
+        <div class="co150">
+          <h2 class="titletext"><span>Q</span>uem Somos?</h2><br>
+          <p>A igreja presbiteriana da aliança teve inicio em 2002,
+            temos 8 anos de congregação e 10 anos de igreja. Somos
+            uma familia que continua crescendo, pela graça e misericórdia 
+            do Senhor. <br>
+            A igreja presbiteriana da aliança teve inicio em 2002,
+            temos 8 anos de congregação e 10 anos de igreja. Somos
+            uma familia que continua crescendo, pela graça e misericórdia 
+            do Senhor.<br>
+            A igreja presbiteriana da aliança teve inicio em 2002,
+            temos 8 anos de congregação e 10 anos de igreja. Somos
+            uma familia que continua crescendo, pela graça e misericórdia 
+            do Senhor.<br>
+            A igreja presbiteriana da aliança teve inicio em 2002,
+            temos 8 anos de congregação e 10 anos de igreja. Somos
+            uma familia que continua crescendo, pela graça e misericórdia 
+            do Senhor.<br>
+          </p>
+        </div>
+        <div class="co150">
+          <div class="imgbx">
+            <img src="ipa.jpeg">
+          </div>
+        </div>
+      </div>
+      <main></main>
+      <div class="title">
+        <h3 class="titletext"><span>L</span>iderança</h3>
+        <div class="side">
+          <h4>Pastor Efetivo</h4>
+          <p>Rev. Paulo Brasil<br></p>
+        </div>
+        <div class="side">
+          <h4>Presbíteros</h4>
+          <p>Bruno Galdino<br>
+          <p>Fernandes Cortial<br>
+          <p>Jeferson Silva<br>
+          <p>Leucio Véras<br></p>
+        </div>
+        <div class="side">
+          <h4>Diáconos</h4>
+          <p>Albino França<br>
+          <p>André Salgado<br>
+          <p>Carlos Albuquerque<br>
+          <p>Emanuel Ferreira<br>
+          <p>Joel Rocha<br>
+          <p>Manoel Ramos<br>
+          <p>Sebastião Monteiro<br></p>
+        </div>
+      </div>
+    </section>
+    <section class="programacao" id="programacao">
+      <div class="title2">
+        <h2 class="titletext"><span>N</span>ossas Programações</h2>
+      </div>  
+      <div class="container">
+        <div class="box">
+          <div class="imgbx">
+            <img src="logo.jpg">
+          </div>
+          <div class="texto">
+            <h3>Horários de Culto</h3>
+            <p>Quarta-feira:<br>Reunião de oração - 19h<br>
+            Domingo:<br>Culto Matutino - 09:30h<br>
+            EBD - 11h<br> Culto vespertino - 17h</p>
+          </div>  
+        </div>
+        <div class="box">
+          <div class="imgbx">
+            <img src="evangelismo1.jpeg">
+          </div>
+          <div class="texto">
+            <h3>Evangelismo</h3>
+            <p>Quarta-feira:<br>Reunião de oração - 19h<br>
+              Domingo:<br>Culto Matutino - 09:30h<br>
+              EBD - 11h<br> Culto vespertino - 17h</p>
+          </div>
+        </div>  
+        <div class="box">
+          <div class="imgbx">
+            <img src="img1.jpeg">
+          </div>
+          <div class="texto">
+            <h3>Outras Atividades</h3>
+            <p>Quarta-feira:<br>Reunião de oração - 19h<br>
+              Domingo:<br>Culto Matutino - 09:30h<br>
+              EBD - 11h<br> Culto vespertino - 17h</p>
+          </div>
+        </div>  
+      </div> 
+    </section>
+    <section class="rec" id="recursos">
+      <div class="row2">
+        <div class="title2">
+          <h2 class="titletext"><span>R</span>ecursos</h2>
+        </div>
+        <div class="about2">
+          <div class="serviceBx">
+            <img src="icon5.png">
+            <a href="#" class="btn">Boletim</a>
+          </div>
+          <div class="serviceBx">
+            <img src="icon6.png">
+            <a href="https://linktr.ee/salterioreformado" class="btn">Salterio</a>
+          </div>
+          <div class="serviceBx">
+            <img src="icon2.png"> 
+            <a href="http://www.monergismo.com/textos/catecismos/brevecatecismo_westminster.htm" class="btn">Catecismo</a>
+          </div>
+          <div class="serviceBx">
+            <img src="icon4.png">  
+            <a href="#" class="btn">Galeria</a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="contato" id="contato">
+      <div class="contactform">
+        <h3>Contato</h3>
+        <form class="form" method="post" action="./email.php">
+          <div class="inputbox">
+            <input type="text" name="name" placeholder="Nome">
+          </div>
+          <div class="inputbox">
+            <input type="text" name="email" placeholder="Email">
+          </div>
+          <div class="inputbox">
+            <textarea name="message" placeholder="Mensagem"></textarea>
+          </div>
+          <div class="inputbox">
+            <input type="submit" value="Send">
+          </div>
+        </form>
+      </div>
+    </section>
+    <div class="bottomtext">
+      <p><a href="">copyright © </a>2022 - Igreja presbiteriana da aliança.</p>
+    </div>
+    <script src="mobile-navbar.js"></script>
+  </body>
+</html>
+
+css
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+}
+.banner{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    background: url(wallpaper2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    transition: fixed 0.6s;
+    z-index: 2;
+}
+/*.banner{
+    position: relative;
+    width: 1200px;
+    height: 120vh;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    background: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: fixed 0.6s;
+    z-index: 2;
+}*/
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 50px;
+    z-index: 10000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.6s;
+}
+header.sticky{
+    background: #fff;
+    padding: 17px 80px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+header .navigation{
+    position: relative;
+    display: flex;
+}
+header .navigation li{
+    list-style: none;
+    margin-left: 30px;
+}
+header .navigation li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 300;
+}
+header .navigation li a:hover{
+    color: #274a32;
+}
+.content{
+    max-width: 500px;
+    margin-bottom: 250px;
+}
+.content h2{
+    color: #fff;
+    font-size: 2.5em;
+}
+.content h2 span{
+    color: #fff;
+    font-size: 1.2em;
+}
+.content p{
+    font-size: 1.2em;
+    color: #fff;
+    font-weight: 300;
+}
+.content a{
+    position: relative;
+    display: inline-block;
+    margin-top: 17px;
+    background: #13381e;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 500;
+    transition: 0.3s;
+}
+/*.content a:hover{
+    background-image: linear-gradient(to right, rgba(241, 249, 250), rgb(5, 99, 44));
+    box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-shadow: none;
+    color: #000;
+    letter-spacing: 1px; Botão saiba mais
+}*/
+/*Redes sociais*/
+.sci{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 94%;
+}
+.sci li{
+    list-style: none;
+}
+.sci li a{
+    position: relative;
+    display: grid;
+    place-items: center;
+    width: 30px;
+    height: 30px;
+    text-decoration: none;
+    /*border: 1px solid #fff;*/
+    margin: 8px 0 0;
+}
+.sci li a img{
+    max-width: 20px;
+    filter: invert(1);
+    mix-blend-mode: difference;
+}
+/*Quem somos?*/
+.aboutus{
+    padding: 100px;
+    height: 100%;
+}
+.row{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.row .co150{
+    position: relative;
+    width: 48%;
+}
+.titletext{
+    color: #274a32;
+    font-size: 2em;
+    font-weight: 300;
+}
+.row .co150 .imgbx{
+    position: relative;
+    width: 100%;
+    min-height: 310px;
+}
+.row .co150 .imgbx img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /*box-shadow: 3rem 3rem 0 rgba(0, 0, 0, 0.1);*/
+    object-fit: cover;
+}
+/*alinhamento da liderança*/
+.title .titletext{
+    /*margin-top: 20px;*/
+    display: flex;       
+}
+.title .side{
+    position: relative;
+    padding: 5px;
+    width: 14%;
+    margin-right: 60px;
+    /*display: flex;*/
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    float: left;
+}
+/*programação*/
+.programacao{
+    background: url(prog.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    min-height: 80px;
+    margin-top: -10%;
+}
+.programacao .titletext{
+    color: #274a32;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.programacao .container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.programacao .container .box{
+    width: 280px;
+    margin: 25px;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.programacao .container .box .imgbx{
+    position: relative;
+    width: 13rem;
+    height: 13rem;
+    margin-top: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.programacao .container .box .imgbx img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.programacao .container .box .texto{
+    text-align: center;
+    display: block;
+}
+.programacao .container .box .texto h3{
+    margin-top: 10px;
+    color: #fff;
+    font-size: 1em;
+    color: #fff;
+    font-weight: 600;
+}
+.programacao .container .box .texto p{
+    color: #fff;
+    font-style: italic;
+    font-size: 1em;
+}
+/*Recursos*/
+.rec{
+    background: url(recursos2.jpeg);
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 120vh;
+    /*min-height: 20vh;*/
+    margin-top: 50px;
+    padding: 25px;
+}
+.row2{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.title2{
+    position: relative;
+    margin-top: 20%;
+    margin-right:30%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 25px;
+}
+.rec .about2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.rec .about2 .serviceBx{
+    padding: 20px 20px;
+    max-width: 100px;
+    margin: 10px;
+    margin-left: -150%;
+    transition: 0.5s;
+    text-align: center;
+    background: #f5f5f5;
+    cursor: pointer;  
+}
+.rec .about2 .serviceBx:hover{
+    background: #000;
+}
+.rec .about2 .serviceBx img{
+    max-width: 50px;
+    transition: 0.5s;
+    align-items: center;
+}
+.rec .about2 .serviceBx:hover img{
+    filter: invert(1);
+}
+.rec .serviceBx .btn{
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.1em 0.4em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    transform: translate(-50%, -50%)
+}    
+
+/*Contato*/
+.contactform{
+    padding: 70px 50px;
+    background: #fff;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
+    max-width: 420px;
+    max-height: 700px;
+    margin-left: 5%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.contactform h3{
+    color: #274a32;
+    font-size: 1.8em;
+    margin-top: -30px;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+.contactform .inputbox{
+    position: relative;
+    width: 100%;
+    margin-bottom: 17px;
+}
+.contactform .inputbox input,
+.contactform .inputbox textarea{
+    width: 100%;
+    border: 1px solid #555;
+    padding: 10px;
+    color: #111;
+    font-size: 16px;
+    font-weight: 300;
+    resize: none;
+    outline: none;
+}
+/*.contactform .inputbox textarea{
+    width: 100%;
+    border: 1px solid #555;
+    color: #111;
+    font-size: 14px;
+    padding: 60px;
+    resize: none;
+    /*alinhar margem de inicio do texto
+}*/
+.contactform .inputbox input[type="submit"]{
+    font-size: 1em;
+    color: #fff;
+    background: #274a32;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    max-width: 100px;
+    font-weight: 500;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+.bottomtext{
+    padding: 8px 40px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.bottomtext p{
+    color: #274a32;
+}
+.bottomtext a{
+    color: #333;
+    font-weight: 500;
+    text-decoration: none;
+}
+/*.toggle{
+    display: none;
+}*/
+
+@media (max-width: 991px)
+{
+    header,
+    header.sticky
+    {
+        padding: 10px 10px;
+    }
+    header .navigation{
+        display: none;
+    }
+    header .navigation{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        overflow: auto;
+        background: #fff;
+        visibility: hidden;
+        opacity: 0;
+    }
+    header.active .navigation{
+        visibility: visible;
+        opacity: 1;
+        padding-top: 10px;
+    }
+    header.active ul li a{
+        display: inline-block;
+        margin: 8px 0;
+        font-size: 20px;
+    }
+    .toggle{
+        position: relative;
+        width: 40px;
+        height: 40px;
+        background: url(toggle2.png);
+        background-size: 30px;
+        background-repeat: no-repeat;
+        background-position: center;
+        cursor: pointer;
+    }
+    header.sticky.toggle{
+        filter: invert(1);
+    }
+    .banner .content h2{
+        font-size: 2em;
+        color: #fff;
+    }
+    .banner .content p {
+        font-size: 1.1em;
+    }
+    .aboutus {
+        padding: 20px;
+    }
+    .row{
+        flex-direction: column;
+    }
+    .row .co150{
+        position: relative;
+        width: 100%;
+    }
+
+    .banner {
+        min-height: 100vh;
+        padding: 25px;
+    }
+    .content {
+        max-width: 350px;
+        margin-bottom: 170px;  
+    }
+    .title{
+        flex-direction: row;
+        text-align: left;
+    }
+    .row .co150 .imgbx{
+        height: 250px;
+        margin-top: 20px;
+    }
+    .contactform{
+        padding: 35px 40px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .title .side {
+        margin-right: 25px;
+        width: 150px;
+        font-size: 15px;
+    }
+    .title .titletext,
+    .titletext,
+    .contactform h3
+    {
+        font-size: 1.7em;
+    }
+    .programacao .titletext
+    {
+        margin-top: 10px;
+    }
+    .programacao .container .box .texto p {
+        font-size: 0.87em;
+        font-style: normal;
+    }
+    .programacao .container .box .texto h3 {
+        font-size: 0.94em;
+    }
+    .programacao .container .box {
+        width: 200px;
+        margin: 25px;
+        padding: 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .programacao .container .box .imgbx{
+        width: 8rem;
+        height: 8rem;
+        margin-bottom: 5px;
+    }
+    
+}
+
+@media (max-width: 550px)
+{
+    .banner{
+        min-height: 5vh;
+        padding: 10px; 
+    }
+    .banner .content p {
+        font-size: 0.9em;
+    }
+    .content h2 span {
+        font-size: 1.1em;
+    }
+    .content a {
+        padding: 10px 20px;
+        font-size: 1em;
+    }
+    .titletext{
+        font-size: 1.5em;
+    }
+    .title .titletext{
+        font-size: 1.5em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .title .side {
+        display: inline-block;
+        justify-content: center;
+        align-items: center;
+    }
+    .sci{
+        position: absolute;
+        bottom: 50px;
+        padding: revert;
+        bottom: 25px;
+        flex-direction: row;
+        right: initial;
+    }
+    .sci li a{
+        margin: initial;
+        margin-right: 10px;
+    }
+    .programacao .titletext {
+        margin-top: 10%;
+        margin-bottom: -6%;
+    }
+    .contactform{
+        padding: 45px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .bottomtext{
+        font-size: 13px;
+    }
+    .programacao .container .box .texto h3 {
+        font-size: 1em;
+    }
+    .programacao .container .box .texto p {
+        font-size: 0.97em;
+        font-style: normal;
+    }
+    .programacao .container .box {
+        width: 200px;
+        margin: 5px;
+        padding: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+    .programacao .container .box .imgbx{
+        width: 10rem;
+        height: 10rem;
+        margin-bottom: 5px;
+    }
+    
+}
+
+js
+window.addEventListener('scroll', function(){
+  const header = document.querySelector('header');
+  header.classList.toggle("sticky", window.scrollY > 0);
+});
+
+function toggle(){
+  const header = document.querySelector('header');
+  const navigation = document.querySelector('navigation');
+  header.classList.toggle('active'); 
+  navigation.classList.toggle('active'); 
+}
+
+/*function toggleMenu(){
+  const toggle = document.querySelector('toggle');
+  toggle.classList.toggle('active');
+}/*/
+
+php
+<?php
+
+if(isset($post['email']) && !empty($post['email'])){
+$nome = addslashes($post['name']);
+$email = addslashes($post['email']);
+$mensagem = addslashes($post['message']);
+
+$to = "joeliarocha00@gmail.com";
+$subject = "IPA";
+$body = "Nome: ".$nome. "\n".
+        "Email: ".$email. "\n". 
+        "Mensagem:".$mensagem;
+$header = "From: joeliarochajrs00@gmail.com"."\r\n".
+           "Reply-To:".$email."\r\n".
+           "X=Mailer:PHP/".phpversion();
+
+if(mail($to,$subject,$body,$header)){
+
+    echo("Email enviado com sucesso!");
+
+}else{
+    echo("O email não foi enviado!");
+}
+}
+
+?>
